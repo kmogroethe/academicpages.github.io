@@ -4,7 +4,7 @@ collection: teaching
 type: "Volunteer"
 permalink: /teaching/teaching-3
 venue: "Goucher College"
-date: 2018-01-01
+date: 2017-01-01
 location: "Baltimore, MD"
 ---
 
