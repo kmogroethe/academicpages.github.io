@@ -2,7 +2,7 @@
 title: "Goucher Prison Education Partnership (GPEP) Tutor"
 collection: teaching
 type: "Volunteer"
-permalink: /teaching/teaching-1
+permalink: /teaching/teaching-3
 venue: "Goucher College"
 date: 2018-01-01
 location: "Baltimore, MD"
