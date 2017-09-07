@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Hello!"
-excerpt: "Hello!"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Nice of you to stop by! I am a current epidemiologist-in-training, and am interested in how molecular epidemiology and next-generation sequencing methods can assist infectious disease research and inform public health interventions.
+Hello, nice of you to stop by! I am a current epidemiologist-in-training, and am interested in how molecular epidemiology and next-generation sequencing methods can assist infectious disease research and inform public health interventions.
 
 Research Interests...
 ======
