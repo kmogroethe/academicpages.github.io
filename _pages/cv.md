@@ -42,15 +42,15 @@ Professional Affiliations
 
 Awards & Honors
 ======
-2009-2011  Dean's List: Alma College
-2011       Beta Beta Beta: Biology Honarary, Alma College
-2011       Omicron Delta Kappa: Honorary Leadership Society, Alma Colelge
-2011-2013  Dean's Research Award: University of Michigan School of Public Health
-2011-2013  Epideiology Dean's Tuition Award: University of Michigan School of Public Health
-2015       Poster Session Winnter: Graduate Student Research Conference. University of Maryland Baltimore. March 9, 2015.
-2016       UMB Global Learning Opportunity (GLO) Travel Award: University of Maryland Baltimore.
-2016       PhD Scholar Award Nominee, Gradute Program in Epidemiology and Human Genetics. GPILS 2016 Awards. University of Maryland Baltimore.
-2016       1st Place Young Investigator Award: The 65th American Society for Tropical Medicine and Hygiene Meeting. November 2016. Atlanta, Georgia.
+* 2009-2011  Dean's List: Alma College
+* 2011       Beta Beta Beta: Biology Honarary, Alma College
+* 2011       Omicron Delta Kappa: Honorary Leadership Society, Alma Colelge
+* 2011-2013  Dean's Research Award: University of Michigan School of Public Health
+* 2011-2013  Epideiology Dean's Tuition Award: University of Michigan School of Public Health
+* 2015       Poster Session Winnter: Graduate Student Research Conference. University of Maryland Baltimore. March 9, 2015.
+* 2016       UMB Global Learning Opportunity (GLO) Travel Award: University of Maryland Baltimore.
+* 2016       PhD Scholar Award Nominee, Gradute Program in Epidemiology and Human Genetics. GPILS 2016 Awards. University of Maryland Baltimore.
+* 2016       1st Place Young Investigator Award: The 65th American Society for Tropical Medicine and Hygiene Meeting. November 2016. Atlanta, Georgia.
 
 Institutional Service
 ======
@@ -83,6 +83,28 @@ Teaching Service
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Workshops
+======
+* 2017: Workshop on Molecular Evolution at the Marine Biological Laboratory, University of Chicago
+  * July 20 to July 30, Woods Hole, MA
+
+Training Experience:
+======
+* 2016: Whole Blood Leukocyte Depletion Training for Whole-Genome Sequencing
+  *Ifakara Health Institute, Bagamoyo, Tanzania, May 2016
+  * KEMRI/CDC, Kisumu, Kenya, September 2016
+  * Trained site staff in leukocyte depletion to remove white blood cells from Plasmodium-infected red blood cells for Plasmodium whole-genome sequencing
+
+Mentoring Activities
+======
+* 2016-2017:	Emily Stucke, Rotation Student, September 2016 – February 2017
+  * Graduate Program in Epidemiology and Human Genetics
+  * Contact hours: 3 per week
+  * Current position: PhD Student, UMB
+* 2017: Gurmannat Kalra, Rotation Student, March 2016 – May 2016 
+  * Program in Molecular Medicine
+  * Contact hours: 2 per week
+  * Current position: PhD Student, UMB
 
 Publications
 ======
@@ -95,13 +117,3 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
