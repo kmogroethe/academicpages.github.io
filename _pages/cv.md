@@ -34,7 +34,7 @@ Employment History
   * Supervisor: Dr. Kenneth Sylvester
   * Data entry and management: established SQL code to check the reliability of data entered into an electronic database from paper copies, calculated error rates, and preformed a wide variety of other clean-up projects. 
   
-2013-Current: Graduate Research Assistant, Graduate Program in Life Sciences, University of Maryland Baltimore  
+* 2013-Current: Graduate Research Assistant, Graduate Program in Life Sciences, University of Maryland Baltimore  
 
 Professional Affiliations
 ======
@@ -42,15 +42,15 @@ Professional Affiliations
 
 Awards & Honors
 ======
-* 2009-2011  Dean's List: Alma College
-* 2011       Beta Beta Beta: Biology Honarary, Alma College
-* 2011       Omicron Delta Kappa: Honorary Leadership Society, Alma Colelge
-* 2011-2013  Dean's Research Award: University of Michigan School of Public Health
-* 2011-2013  Epideiology Dean's Tuition Award: University of Michigan School of Public Health
-* 2015       Poster Session Winnter: Graduate Student Research Conference. University of Maryland Baltimore. March 9, 2015.
-* 2016       UMB Global Learning Opportunity (GLO) Travel Award: University of Maryland Baltimore.
-* 2016       PhD Scholar Award Nominee, Gradute Program in Epidemiology and Human Genetics. GPILS 2016 Awards. University of Maryland Baltimore.
-* 2016       1st Place Young Investigator Award: The 65th American Society for Tropical Medicine and Hygiene Meeting. November 2016. Atlanta, Georgia.
+* 2009-2011: Dean's List: Alma College
+* 2011: Beta Beta Beta: Biology Honarary, Alma College
+* 2011: Omicron Delta Kappa: Honorary Leadership Society, Alma Colelge
+* 2011: Dean's Research Award: University of Michigan School of Public Health
+* 2011: Epideiology Dean's Tuition Award: University of Michigan School of Public Health
+* 2015: Poster Session Winnter: Graduate Student Research Conference. University of Maryland Baltimore. March 9, 2015.
+* 2016: UMB Global Learning Opportunity (GLO) Travel Award: University of Maryland Baltimore.
+* 2016: PhD Scholar Award Nominee, Gradute Program in Epidemiology and Human Genetics. GPILS 2016 Awards. University of Maryland Baltimore.
+* 2016: 1st Place Young Investigator Award: The 65th American Society for Tropical Medicine and Hygiene Meeting. November 2016. Atlanta, Georgia.
 
 Institutional Service
 ======
@@ -70,10 +70,10 @@ Community Service
   * CASPER Post-Tornado Surveys- Eastern Kentucky (March 2012): Assisted in a CASPER study in conjunction with the CDC to assess health needs, access to tornado warnings, and other issues due to the March 2 tornadoes that struck Kentucky.
 
 * 2014-Present:	Ronald McDonald House Organizer & Server (SAC)
-  * University of Maryland, Baltimore (2014-Present)
+  * University of Maryland, Baltimore
   * Help organize and lead students from University of Maryland Baltimore to serve monthly breakfast to patients staying at the Ronald McDonald House
 
-2017-Present:	Tutor for the Goucher Prison Education Partnership (GPEP)
+* 2017-Present:	Tutor for the Goucher Prison Education Partnership (GPEP)
   * Goucher College, Baltimore, MD
   * Academic writing and math tutor for incarcerated men and women enrolled in the Bachelor’s degree program offered by Goucher College at the Maryland Correctional Institution – Jessup (MD) (also listed below in Teaching Service)
 
@@ -91,7 +91,7 @@ Workshops
 Training Experience:
 ======
 * 2016: Whole Blood Leukocyte Depletion Training for Whole-Genome Sequencing
-  *Ifakara Health Institute, Bagamoyo, Tanzania, May 2016
+  * Ifakara Health Institute, Bagamoyo, Tanzania, May 2016
   * KEMRI/CDC, Kisumu, Kenya, September 2016
   * Trained site staff in leukocyte depletion to remove white blood cells from Plasmodium-infected red blood cells for Plasmodium whole-genome sequencing
 
