@@ -1,0 +1,12 @@
+---
+title: "Population genomics of Plasmodium falciparum to inform the design and efficacy of whole organism malaria vaccines"
+collection: talks
+type: "Oral Communication"
+permalink: /talks/talk-2
+venue: "American Society of Tropical Medicine and Hygiene"
+date: 2016-11-16
+location: "Atlanta, GA"
+---
+Scientific Session 109: Malaria and Protozoans- Molecular Biology
+
+The Sanaria® PfSPZ Vaccine is a radiation-attenuated whole-organism vaccine based on the sporozoite stage of Plasmodium falciparum (Pf). The vaccine isolate NF54 (from West Africa) is the isolate from which the Pf reference 3D7 was cloned. While vaccine efficacy after immunization with moderate doses of PfSPZ is high and similar against controlled human malaria infection (CHMI) with homologous (3D7) and heterologous (7G8 from Brazil) clones, at lower doses protection is higher against CHMI with 3D7 compared to 7G8. Furthermore, at lower doses protection may be lower in the field than against CHMI. These results suggest that while broad efficacy can be achieved by increasing the dose, it may be achieved more efficiently and at lower doses by including additional Pf strains in the vaccine. This goal requires rigorous characterization of NF54 and comparisons to Pf populations in malaria endemic regions so that complementary vaccine strains can be selected. To this end, NF54 was sequenced with PacBio and Illumina platforms resulting in a high-quality assembly and SNP calls. The resulting assembly consists of 24 contigs with a cumulative length of 23.28 Mbp, similar to the 3D7 reference genome (23.26 Mbp). Of the 5,542 genes in the 3D7 genome, all but 15 map completely and accurately to the NF54 genome. Both SNP calls and the assembly indicate that NF54 is very similar to 3D7, with <3K SNP differences between them. We then sequenced and assembled the genomes of 3 additional Pf clones proposed as vaccine constituents: 7G8, NF135.C10 (Cambodia), and NF166 (Guinea). Along with NF54, these were then compared to several hundred Pf clinical isolates from around the globe using whole-genome sequence data. Principle coordinate and admixture analyses based on SNP calls show that cloned and clinical isolates cluster based on geographic origins. Focusing on pre-erythrocytic antigens, we investigate allele and epitope frequency of the four proposed vaccine strains among global Pf populations to inform vaccine design and to interpret the outcome of upcoming vaccine trials.
