@@ -11,16 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* BS, Program of Emphasis- Global Health and Policy, Alma College, 2011
+  * Cume Laude, Departmental Honors
+  * GPA: 3.59
+* MPH, Molecular Epidemiology, University of Michigan School of Public Health, 2013
+  * GPA: 6.60 (9pt scale)
+* PhD, Molecular Epidemiology, University of Maryland Baltimore, 2018 (expected)
+  * Thesis Chairs: Dr. Joana Carneiro da Silva, Dr. Christopher V. Plowe (co-chair)
+  * GPA: 3.93
 
-Work experience
+Employment History
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2006-2001: Medical Content Analysis, Roberston Global Health Solutions
+  * Supervisor: Brooke Roff, RN
+  * Duties: Basic data entry, peer-review assignments, and a wide variety of clean-up projects for the creation of the medical database. Entered data from a pilot study of a mobile diagnostic tool conducted by Nizam’s Institute of Medical Sciences (NIMS) (in conjunction with Robertson Global Health) in Hyderabad, Andhra Pradesh, India.
 
 * Fall 2015: Research Assistant
   * Github University
