@@ -3,7 +3,7 @@ title: "Population genomics of Plasmodium falciparum to inform the design and ef
 collection: talks
 type: "Oral Communication"
 permalink: /talks/talk-2
-venue: "American Society of Tropical Medicine and Hygiene"
+venue: "65th Annual Meeting, American Society of Tropical Medicine and Hygiene"
 date: 2016-11-16
 location: "Atlanta, GA"
 ---
