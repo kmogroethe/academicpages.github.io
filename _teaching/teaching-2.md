@@ -8,7 +8,7 @@ date: 2014-01-01
 location: "Baltimore, MD"
 ---
 
-Teaching assistant as part of Graduate Research Assistantship position in the Department of Epidemiology. Lecutres, grading, in-class assistance (Fall 2014-Fall 2016).
+Teaching assistant as part of Graduate Research Assistantship position in the Department of Epidemiology. Lectures, grading, in-class assistance (Fall 2014-Fall 2016).
 
 
 PREV 780 – Molecular Epidemiology (Fall 2014)
