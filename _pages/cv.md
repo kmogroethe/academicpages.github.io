@@ -44,7 +44,7 @@ Awards & Honors
 ======
 * 2009-2011: Dean's List: Alma College
 * 2011: Beta Beta Beta: Biology Honarary, Alma College
-* 2011: Omicron Delta Kappa: Honorary Leadership Society, Alma Colelge
+* 2011: Omicron Delta Kappa: Honorary Leadership Society, Alma College
 * 2011: Dean's Research Award: University of Michigan School of Public Health
 * 2011: Epideiology Dean's Tuition Award: University of Michigan School of Public Health
 * 2015: Poster Session Winnter: Graduate Student Research Conference. University of Maryland Baltimore. March 9, 2015.
@@ -112,7 +112,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Selected Conference Abstracts
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
