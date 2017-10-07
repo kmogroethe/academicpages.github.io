@@ -22,13 +22,13 @@ Education
 
 Employment History
 ======
-* 2006-2001: Medical Content Analysis, Roberston Global Health Solutions
+* 2006-2011: Medical Content Analysis, Roberston Global Health Solutions
   * Supervisor: Brooke Roff, RN
   * Duties: Basic data entry, peer-review assignments, and a wide variety of clean-up projects for the creation of the medical database. Entered data from a pilot study of a mobile diagnostic tool conducted by Nizam’s Institute of Medical Sciences (NIMS) (in conjunction with Robertson Global Health) in Hyderabad, Andhra Pradesh, India.
 
 * 2012-2013: Research Assistant, University of Michigan School of Public Health
   * Supervisor: Dr. Joseph N. S. Eisenberg, Dr. Lixin Zhang
-  * Duties: Extract and process DNA of E. coli samples from human, poultry, and environmental sources. Generate gene marker data using DNA microarray platforms.
+  * Duties: Extract and process DNA of <i>E. coli</i> samples from human, poultry, and environmental sources. Generate gene marker data using DNA microarray platforms.
 
 * Summer 2013: Research Assistant, University of Michigan Interuniversity Consortium for Social Research
   * Supervisor: Dr. Kenneth Sylvester
