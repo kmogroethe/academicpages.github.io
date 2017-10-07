@@ -28,9 +28,9 @@ I have since moved on to the University of Maryland Baltimore, where I am a PhD 
 
 <p align="center">
 
-  ###### PCoA comparing clinical P. falciparum isolates to vaccine strains (bold)
+###### PCoA comparing clinical P. falciparum isolates to vaccine strains (bold)
 
-  <img src="images/global_pcoa.png" alt="hi" class="inline"/>
+<img src="images/global_pcoa.png" alt="hi" class="inline"/>
 
 </p>
 
