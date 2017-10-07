@@ -28,10 +28,10 @@ I have since moved on to the University of Maryland Baltimore, where I am a PhD 
 
 <p align="center">
 
-###### PCoA comparing clinical P. falciparum isolates to vaccine strains (bold)
-
-<img src="images/global_pcoa.png" alt="hi" class="inline"/>
+###### PCoA comparing clinical <i>P. falciparum</i> isolates to vaccine strains (bold)
 
 </p>
+
+<img src="images/global_pcoa.png" alt="hi" class="inline"/>
 
 Using both long and short read platforms, we are characterizing proposed additional vaccine strains using <i>de novo</i> assembly techniques, and are comparing them to a collection of clinical isolates from different malaria endemic regions for which we also have whole genome sequence data available using variant discovery tools. The high-quality assemblies generated through this research have been some of the first for this malaria parasite, apart from the initial reference genome, and have allowed not only for throughough genomic and genetic characterization of these strains, but also promises to reveal and resolve existing errors in the reference genome (look for preprints by late 2018/early 2019!).
