@@ -106,7 +106,7 @@ Mentoring Activities
   * Contact hours: 2 per week
   * Current position: PhD Student, UMB
 
-Experience: Programming Languages
+Programming Languages
 ======
 * R
 * SAS
