@@ -106,6 +106,15 @@ Mentoring Activities
   * Contact hours: 2 per week
   * Current position: PhD Student, UMB
 
+Experience: Programming Languages
+======
+R
+SAS
+bash
+AWK
+perl
+python (learning... why did I learn perl?!)
+
 Publications
 ======
   <ul>{% for post in site.publications %}
