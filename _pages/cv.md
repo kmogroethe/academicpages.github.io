@@ -108,12 +108,12 @@ Mentoring Activities
 
 Experience: Programming Languages
 ======
-R
-SAS
-bash
-AWK
-perl
-python (learning... why did I learn perl?!)
+*R
+*SAS
+*bash
+*AWK
+*perl
+*python (picking this up now... why did I learn perl?!)
 
 Publications
 ======
