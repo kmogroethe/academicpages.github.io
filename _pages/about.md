@@ -21,16 +21,18 @@ While this information can be incredibly helpful in disease research and surveil
 \...and Research Activities
 -======
 
-* Genomic Epidemiology of Malaria *
+*Genomic Epidemiology of Malaria*
 
 My research has shown just how useful high-throughput genetic and genomic tools can be for exploring these issues. My dissertation work at the Institute for Genome Sciences (University of Maryland School of Medicine) under [Dr. Joana Silva](http://www.medschool.umaryland.edu/profiles/Carneiro-da-Silva-Joana/) and [Dr. Christover V. Plowe] focused on how molecular epidemiology and population genomics can inform the design of whole-organism malaria vaccines and aid in the interpretation of clinical trials. While whole-organism vaccines appear to offer high protection (90-100%) against malaria parasites that look like the vaccine strain, efficacy is lower against non-vaccine strains (~40-80%), suggesting that the well-established genetic diversity of this parasite hampers our ability to design effective vaccines. Multi-strain or region-specific vaccines may help improve vaccine efficacy. However, a limited amount of strains that can be adapted for vaccination purposes are available, and it is critical that that we understand how these strains differ both at the genomic and genetic level before selecting additional vaccine strains. 
 
 ###### PCoA comparing clinical <i>P. falciparum</i> isolates to vaccine strains (bold)
 <img src="images/global_pcoa.png" alt="hi" class="inline"/>
 
-Using both long and short read platforms, we are characterizing proposed additional vaccine strains using <i>de novo</i> assembly techniques, and are comparing them to a collection of clinical isolates from different malaria endemic regions for which we also have whole genome sequence data available using variant discovery tools. The high-quality assemblies generated through this research have been some of the first for this malaria parasite, apart from the initial reference genome, and have allowed not only for throughough genomic and genetic characterization of these strains, but also promises to reveal and resolve existing errors in the reference genome (manuscripts out soon!).
+Using both long and short read platforms, we gererated <i>de novo</i> assemblies for strains used for vaccination and controlled human malaria challange purposes, and used these assemblies to conduct a rigorous characterization of each strain, documenting thousands of differences between strains that may impact immune recognition. In addition, we compared these strains to a collection of clinical isolates from different malaria endemic regions for which we also have whole genome sequence data available to confirm they are representative of extant parasite popultions. The high-quality assemblies generated through this research have allowed not only for throughough genomic and genetic characterization of these strains, but also promises to reveal and resolve existing errors in the reference genome (manuscripts out soon!).
 
-I am currently a Postdoctoral Fellow at the University of North Carolina Chapel Hill
+I am currently a Postdoctoral Fellow at the University of North Carolina Chapel Hill working in the Infectious Disease Epidemiology and Ecology Lab [(IDEEL)](https://www.med.unc.edu/infdis/ideel/) 
+
+*Don't forget about the vectors*
 
 *Antibiotic resistance and small-scale poultry farming*
 
