@@ -19,7 +19,7 @@ The neck-breaking pace of sequencing technology development has left in its wake
 While this information can be incredibly helpful in disease research and surveillance, the enormous scale of available sequences (and required resources for analysis) present daunting challenges on how to efficiently incorporate these data into sound epidemiologic studies. A new generation of public health researchers, trained in both epidemiology and bioinformatics, is essential to 21st century disease research to track the emergence of drug resistance, inform vaccine design, and assess the impact of interventions on pathogen populations. 
 
 \...and Research Activities
--======
+======
 
 *Genomic Epidemiology of Malaria*
 
