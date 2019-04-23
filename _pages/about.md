@@ -32,8 +32,8 @@ Using both long and short read platforms, we gererated <i>de novo</i> assemblies
 
 I am currently a Postdoctoral Fellow at the University of North Carolina Chapel Hill working in the Infectious Disease Epidemiology and Ecology Lab [(IDEEL)](https://www.med.unc.edu/infdis/ideel/) 
 
-*Don't forget about the vectors*
+* Don't forget about the vectors *
 
-*Antibiotic resistance and small-scale poultry farming*
+* Antibiotic resistance and small-scale poultry farming *
 
 During my MPH studies at the University of Michigan, I worked in [Dr. Joseph Eisenberg's](https://sph.umich.edu/faculty-profiles/eisenberg-joseph.html) group utilizing DNA microarray platforms to detect mobile genetic elements (such as integrons and plasmids) in <i>E. coli</i> isolates from Ecuadorean birds and humans associated with small-scale production farming operations (which utilize antibiotics in poultry feed), and incorporated these data into mixed effects models to assess the impact of these practices on drug resistance in the surrounding community. Our results show not only higher levels of phenotypic resistance and genetic mobile elements in small-scale production birds compared to free-range birds, but also higher levels of genetic mobile elements and related phenotypic resistance profiles in humans associated with small-scale production birds compared to humans associated with free-range birds. These small-scale operations in developing nations, which typically house less than 100 birds per coop, appear to be more than capable of becoming a reservoir of antibiotic resistance for the humans who interact with them, and that the phenomenona of high resistance levels in livestock is not just restricted to the large-scale operations we are familiar with in the United States. [These results](https://doi.org/10.1093/aje/kwx286) have important implications for public health and policy, as small-scale production farming is increasingly viewed as [a tool for economic development](https://www.gatesnotes.com/Development/Why-I-Would-Raise-Chickens).
