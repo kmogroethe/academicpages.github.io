@@ -21,7 +21,7 @@ While this information can be incredibly helpful in disease research and surveil
 \...and Research Activities
 ======
 
-* Genomic Epidemiology of Malaria *
+### *Genomic Epidemiology of Malaria*
 
 My research has shown just how useful high-throughput genetic and genomic tools can be for exploring these issues. My dissertation work at the Institute for Genome Sciences (University of Maryland School of Medicine) under [Dr. Joana Silva](http://www.medschool.umaryland.edu/profiles/Carneiro-da-Silva-Joana/) and [Dr. Christover V. Plowe] focused on how molecular epidemiology and population genomics can inform the design of whole-organism malaria vaccines and aid in the interpretation of clinical trials. While whole-organism vaccines appear to offer high protection (90-100%) against malaria parasites that look like the vaccine strain, efficacy is lower against non-vaccine strains (~40-80%), suggesting that the well-established genetic diversity of this parasite hampers our ability to design effective vaccines. Multi-strain or region-specific vaccines may help improve vaccine efficacy. However, a limited amount of strains that can be adapted for vaccination purposes are available, and it is critical that that we understand how these strains differ both at the genomic and genetic level before selecting additional vaccine strains. 
 
