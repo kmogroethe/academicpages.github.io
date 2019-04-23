@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kara Moser"
 title_separator          : "-"
 name                     : &name "Kara Moser"
-description              : &description "Molecular Epidemiology PhD Candidate"
+description              : &description "Postdoctoral Fellow, IDEEL Lab"
 url                      : https://kmogroethe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kmogroethe.github.io"
@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Kara Moser"
   avatar           : "old_rag.jpg"
-  bio              : "Molecular Epidemiology PhD Candidate"
-  location         : "Baltimore, MD"
-  employer         : "Institute for Genome Sciences"
+  bio              : "Postdoctoral Fellow"
+  location         : "Chapel Hill, NC"
+  employer         : "University of North Carolina Chapel Hill"
   googlescholar    : "https://scholar.google.com/citations?user=C8EsdqwAAAAJ&hl=en"
   email            :
   uri              :
