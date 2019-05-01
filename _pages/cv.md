@@ -16,7 +16,7 @@ Education
   * GPA: 3.59
 * MPH, Molecular Epidemiology, University of Michigan School of Public Health, 2013
   * GPA: 6.60 (9pt scale)
-* PhD, Molecular Epidemiology, University of Maryland Baltimore, 2018 (expected)
+* PhD, Molecular Epidemiology, University of Maryland Baltimore, 2018
   * Thesis Chairs: Dr. Joana Carneiro da Silva, Dr. Christopher V. Plowe (co-chair)
   * GPA: 3.93
 
@@ -34,11 +34,24 @@ Employment History
   * Supervisor: Dr. Kenneth Sylvester
   * Data entry and management: established SQL code to check the reliability of data entered into an electronic database from paper copies, calculated error rates, and preformed a wide variety of other clean-up projects. 
   
-* 2013-Current: Graduate Research Assistant, Graduate Program in Life Sciences, University of Maryland Baltimore  
+* 2013-2018: Graduate Research Assistant, Graduate Program in Life Sciences, University of Maryland Baltimore 
+  * Responsible for storage organization and processing of whole genome sequencing data (Illumina, PacBio, Oxford Nanopore) of Plasmodium isolates.
+  * Conducted molecular epidemiology and population genetic analyses for a variety of research questions, including the evolution of antimalarial resistance, temporal and geographic variation in parasite allele frequencies, assembly generation of entire Plasmodium genomes, and the characterization of genetic variants in vaccine candidate loci and their impact on epitope recognition.
+  * Conducted training for local and international collaborators in Sub-Saharan Africa in collection and preparation of samples for successful sequencing of Plasmodium parasites
+  * Prepared reports for grant submissions and manuscripts for publications; co-authored six manuscripts during this position with another two first-author manuscripts currently under review. Submitted an F31 grant as the primary PI (unfunded).
+  * Presented work at international meetings (three oral presentations at the 2016 and 2017 ASTMH meetings and at the 2018 Genomic Epidemiology of Malaria Meeting; multiple poster presentations from 2014-2018).
+  * Assisted as a teaching assistant for five courses for the PhD and MPH Epidemiology programs; duties included lecturing, preparation of test materials, and grading assignments.
+  
+* 2018-Current: Postdoctoral Fellow, Institute for Infectious Diseases and Global health, University of North Carolina (Chapel Hill)
+  * Plan and implement molecular epidemiology and population genetic studies of critical public-health organisms, including Plasmodium and Aedes aegytpi 
+  * Organize and process sequencing data from whole-genome sequencing platforms (Illumina, PacBio, Nanopore), amplicon deep sequencing, and molecular inversion probes (MIPs)
+  * Coordinate analytical and educational efforts with key collaborators, both domestic and international, including members of countries’ National Malaria Control Program (Tanzania, Zambia). 
+  * Prepare reports for grant submissions and contributed to manuscripts for publications; currently one first author manuscript in preparation.
 
 Professional Affiliations
 ======
 * American Society of Tropical Medicine and Hygience 
+* American Society for Microbiology
 
 Awards & Honors
 ======
