@@ -66,12 +66,12 @@ Awards & Honors
 Professional Services and Memberships
 ======
 
-*Professional Affiliations
+<i>Professional Affiliations</i>
 
 2016-Current	American Society of Tropical Medicine and Hygiene (ASTMH)
 2019-Current	American Society for Microbiology (ASM)
 
-*Journal Reviewer
+<i>Journal Reviewer</i>
 
 2019-Current	Reviewer, BMC Veterinary Research
 
@@ -93,13 +93,17 @@ Community Service
   * Provides MPH students with exposure to disaster relief and community health projects on the local and national level.
   * CASPER Post-Tornado Surveys- Eastern Kentucky (March 2012): Assisted in a CASPER study in conjunction with the CDC to assess health needs, access to tornado warnings, and other issues due to the March 2 tornadoes that struck Kentucky.
 
-* 2014-Present:	Ronald McDonald House Organizer & Server (SAC)
+* 2014-2018:	Ronald McDonald House Organizer & Server (SAC)
   * University of Maryland, Baltimore
   * Help organize and lead students from University of Maryland Baltimore to serve monthly breakfast to patients staying at the Ronald McDonald House
 
-* 2017-Present:	Tutor for the Goucher Prison Education Partnership (GPEP)
+* 2017-2018:	Tutor for the Goucher Prison Education Partnership (GPEP)
   * Goucher College, Baltimore, MD
   * Academic writing and math tutor for incarcerated men and women enrolled in the Bachelor’s degree program offered by Goucher College at the Maryland Correctional Institution – Jessup (MD) (also listed below in Teaching Service)
+  
+* 2019-Current	Mentor – Carolina ADMIRES Program
+  * Chapel Hill, NC
+  * Mentor 8th and 9th grade students designing and conducting a scientific research project throughout the school year
 
 Teaching Service
 ======
@@ -107,10 +111,13 @@ Teaching Service
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Workshops
+Workshops (Participant)
 ======
 * 2017: Workshop on Molecular Evolution at the Marine Biological Laboratory, University of Chicago
   * July 20 to July 30, Woods Hole, MA
+* 2019: Illumina Nextera Library Prep/Novaseq Workshop
+  * Chapel Hill, NC
+  * January 23-24, 2019
 
 Training Experience:
 ======
@@ -129,6 +136,14 @@ Mentoring Activities
   * Program in Molecular Medicine
   * Contact hours: 2 per week
   * Current position: PhD Student, UMB
+* 2018-2019	Arogbokun, Olufunmilayo Christine,
+  * Doctoral Student, Epidemiology
+  * Contact hours: 2 per week
+  * Current position: PhD student, UNC-Chapel Hill
+* 2019-Current	Kelly Carey-Ewend,
+  * MD/PhD Student, MD Y1
+  * Contact hours: 2 per week
+  * Current position: MD student, UNC-Chapel Hill
 
 Programming Languages
 ======
@@ -137,7 +152,7 @@ Programming Languages
 * bash
 * AWK
 * perl
-* python (picking this up now... why did I learn perl?!)
+* python (primary use is for snakemake)
 
 Publications
 ======
