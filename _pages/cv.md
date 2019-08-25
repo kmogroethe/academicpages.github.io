@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+</br>
 Education
 ======
 * BS, Program of Emphasis- Global Health and Policy, Alma College, 2011
