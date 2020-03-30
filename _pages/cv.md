@@ -51,7 +51,7 @@ Employment History
     * Detection of Flavivirus from <i>Aedes</i> collected from the DRC
   * Organize and process sequencing data from whole-genome sequencing platforms (Illumina, PacBio, Nanopore), amplicon deep sequencing, and molecular inversion probes (MIPs)
   * Coordinate analytical and educational efforts with key collaborators, both domestic and international, including members of countries’ National Malaria Control Program (Tanzania, Zambia). 
-  * Prepare reports for grant submissions and contributed to manuscripts for publications; currently one first author manuscript in preparation.
+  * Prepare reports for grant submissions and contributed to manuscripts for publications; numerous first and coauthor manuscript in preparation.
 
 Awards & Honors
 ======
