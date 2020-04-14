@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 Hello, nice of you to stop by! I am an infectious disease epidemiologist interested in how molecular epidemiology and new technologies can assist infectious disease research and public health surviellance (both domestically and abroad).
-</b>
+<br />
+
 Summary: Research Interests & Skills
 ======
 
@@ -23,7 +24,8 @@ Molecular and genomic epidemiology, population health, population genetics of in
 
 * Analysis and visualization of epidemiological and genomic data sets with: R/R Shiny, SAS, Perl, Python, Bash, Linux/Unix
 
-</b>
+<br />
+
 Whole genome sequencing: the good, the bad, and the ugly
 ======
 
@@ -33,7 +35,8 @@ The breakneck pace of sequencing technology development has left in its wake a v
 
 While this information can be incredibly helpful in disease research and surveillance, the enormous scale of available sequences (and required resources for analysis) present daunting challenges on how to efficiently incorporate these data into sound epidemiologic studies. A new generation of public health researchers, trained in both epidemiology and bioinformatics, is essential to 21st century disease research to track the emergence of drug resistance, inform vaccine design, and assess the impact of interventions on pathogen populations. 
 
-</b>
+<br />
+
 Research Activities
 ======
 
