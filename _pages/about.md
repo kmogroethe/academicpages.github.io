@@ -16,8 +16,11 @@ The Cliff Notes Version: Research Interests & Skills
 Molecular and genomic epidemiology, population health, population genetics of infectious disease organisms, data-driven approaches for public health solutions, integration of novel technologies and datasets (next generation sequencing; demographic health surveys, big data) with traditional epidemiologic approaches
 
 • Analysis of large surveillance data sets (Malaria Indicator Surveys, Demographic Health Surveys, FDA Adverse Reporting System)
+
 • Statistical analyses for epidemiological and genomic data, including mixed effects regression models for longitudinally collected and clustered data, and machine learning techniques (random forests, k-means clustering, etc.)
+
 • De novo assembly and variant identification pipelines for next/third generation sequencing platforms (Illumina, PacBio, Oxford Nanopore)
+
 • Analysis and visualization of epidemiological and genomic data sets with: R/R Shiny, SAS, Perl, Python, Bash, Linux/Unix
 
 Whole genome sequencing: the good, the bad, and the ugly
