@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, nice of you to stop by! I am an infectious disease epidemiologist interested in how molecular epidemiology and new technologies can assist infectious disease research and public health surviellance (both domestically and abroad)
+Hello, nice of you to stop by! I am an infectious disease epidemiologist interested in how molecular epidemiology and new technologies can assist infectious disease research and public health surviellance (both domestically and abroad).
 
 The Cliff Notes Version: Research Interests & Skills
 ======
@@ -20,15 +20,16 @@ Molecular and genomic epidemiology, population health, population genetics of in
 • De novo assembly and variant identification pipelines for next/third generation sequencing platforms (Illumina, PacBio, Oxford Nanopore)
 • Analysis and visualization of epidemiological and genomic data sets with: R/R Shiny, SAS, Perl, Python, Bash, Linux/Unix
 
-Research Interests...
+Whole genome sequencing: the good, the bad, and the ugly
 ======
-The neck-breaking pace of sequencing technology development has left in its wake a vast resource of genetic and genomic data, currently totaling multiple petabases of sequence. As infectious disease researchers incorporate sequencing technologies into new fields and pathogens, we observe rapid accumulation of this data - here's the amount of sequencing data (in base pairs) accumulating for <i>Plasmodium</i> spp. since the publication of the *P. falciparum* reference genome up to last year:
+
+The breakneck pace of sequencing technology development has left in its wake a vast resource of genetic and genomic data, currently totaling multiple petabases of sequence. As infectious disease researchers incorporate sequencing technologies into new fields and pathogens, we observe rapid accumulation of this data - here's the amount of sequencing data (in base pairs) accumulating for <i>Plasmodium</i> spp. since the publication of the *P. falciparum* reference genome up to last year:
 
 <img src="images/seq-trends.png" alt="hi" class="inline"/>
 
 While this information can be incredibly helpful in disease research and surveillance, the enormous scale of available sequences (and required resources for analysis) present daunting challenges on how to efficiently incorporate these data into sound epidemiologic studies. A new generation of public health researchers, trained in both epidemiology and bioinformatics, is essential to 21st century disease research to track the emergence of drug resistance, inform vaccine design, and assess the impact of interventions on pathogen populations. 
 
-\...and Research Activities
+Research Activities
 ======
 
 ### Genomic Epidemiology of Malaria
