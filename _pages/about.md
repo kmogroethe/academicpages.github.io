@@ -15,7 +15,7 @@ Hello, nice of you to stop by! I am an infectious disease epidemiologist interes
 Summary: Research Interests & Skills
 ======
 
-Molecular and genomic epidemiology, population health, population genetics of infectious disease organisms, data-driven approaches for public health solutions, integration of novel technologies and datasets (next generation sequencing; demographic health surveys, big data) with traditional epidemiologic approaches
+Molecular and genomic epidemiology, population health, population genetics of infectious disease organisms, data-driven approaches for public health solutions, integration of novel technologies and datasets (next generation sequencing; demographic health surveys, big data) with traditional epidemiologic approaches; development of bioinformatic resources for various public health purposes 
 
 * Analysis of large surveillance data sets (Malaria Indicator Surveys, Demographic Health Surveys, FDA Adverse Reporting System)
 
