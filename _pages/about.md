@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Hello, nice of you to stop by! I am an infectious disease epidemiologist interested in how molecular epidemiology and new technologies can assist infectious disease research and public health surviellance (both domestically and abroad).
+
 <br />
 
 Summary: Research Interests & Skills
