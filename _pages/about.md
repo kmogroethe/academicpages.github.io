@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, nice of you to stop by! I am an infectious disease epidemiologist interested in how molecular epidemiology and new technologies can assist infectious disease research and public health surviellance (both domestically and abroad).
 
-The Cliff Notes Version: Research Interests & Skills
+Summary: Research Interests & Skills
 ======
 
 Molecular and genomic epidemiology, population health, population genetics of infectious disease organisms, data-driven approaches for public health solutions, integration of novel technologies and datasets (next generation sequencing; demographic health surveys, big data) with traditional epidemiologic approaches
